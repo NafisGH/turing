@@ -4,6 +4,56 @@
 
 @import url("./blocks/header/header.css");
 
-.body {
-    position: relative;
+@import url("./blocks/main/section-hero-group-text.css");
+
+@import url("./blocks/main/hero-img.css");
+
+@import url("./blocks/main/latest-episodes.css");
+
+
+
+
+
+* {
+    box-sizing:border-box;
+    font-family: Poppins, sans-serif;
 }
+.header_section {
+  width: 1440px;
+  height: 900px;
+  background-color: rgb(53, 119, 243);
+}
+
+.hero-group-text__also {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.13em;
+  color: #ffffff;
+  margin-top: 62px;
+}
+
+.hero-group-text__links {
+  /* display: flex; */
+}
+.hero-group-text__lists {
+    list-style-type: none;
+  display: flex;
+  margin-left: -35px;
+  /* justify-content: space-between; */
+  align-items: center;
+  width: 390px;
+}
+.hero-group-text__list-apple {
+    margin-left: 20px;
+}
+.hero-group-text__list-you {
+    margin-left: 25px;
+}
+
+.hero-group-text__Hero-img {
+  display: flex;
+}
+

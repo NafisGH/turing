@@ -1,0 +1,25 @@
+.hero-img {
+
+width: 553px;
+height: 496px;
+}
+.hero-img {
+    background-color:none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 630px;
+    margin-top: 160px;
+}
+.purple {
+    margin-left: 40px;
+    margin-top: -30px;
+}
+.microphone {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.Man_whate {
+margin-top: -110px;
+margin-left: 20px;
+}
+
