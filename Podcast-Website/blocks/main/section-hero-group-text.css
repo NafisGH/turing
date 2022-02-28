@@ -1,0 +1,91 @@
+.hero-group-text {
+    /* position: absolute; */
+    left: 121px;
+top: 207px;
+width: 650px;
+margin-left: 120px;
+margin-top: 120px;
+}
+
+.hero-group-text__maik-personal {
+    display: flex;
+    align-items:center;
+}
+
+.maik-personal__mike {
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+letter-spacing: 0.15em;
+}
+.maik-personal__ellipse-29 {
+    width: 4px;
+height: 4px;
+border-radius: 50%;
+background-color: red;
+margin-left: 18px;
+
+}
+.maik-personal__personal {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: 0.15em;
+margin-left: 18px;    
+}
+
+.hero-group-text__everyday {
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 66px;
+line-height: 70px;
+letter-spacing: 0.03em;
+margin-top: -40px;
+margin-bottom: -50px;
+}
+
+.hero-group-text__lorem {
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0.06em;
+opacity: 0.7;
+width: 545px;
+}
+
+.hero-group-text__button {
+    display: flex;
+    margin-top: 45px;
+    margin-left: 30px;
+    box-sizing: border-box;
+}
+
+.hero-group-text__button--start {
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 21px;
+padding: 13px 30px;
+margin-top: -15px;
+margin-left: -25px;
+background: linear-gradient(265.37deg, #9224D6 -49.74%, #BD87DE 116.53%);
+border-radius: 30px;
+}
+.hero-group-text__button--see {
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 21px;
+padding: 13px 20px;
+margin-top: -15px;
+border-radius: 30px;
+margin-left: 8px;
+border: 1px solid black;
+}

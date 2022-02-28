@@ -1,0 +1,114 @@
+.h2 {
+    margin-top: 50px;
+}
+
+
+.latest-episodes {
+    /* display: flex; */
+  width: 1440px;
+  height: 900px;
+  background-color: #fff;
+}
+.subtitle {
+  display: flex;  
+  align-items:center;
+  justify-content: space-between;
+  margin-left: 119px;
+    margin-right: 122px;
+}
+
+.latest-episodes__section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 119px;
+    margin-right: 122px;
+}
+.latest-episodes__ep-content__happy-man {
+    width: 381px;
+}
+.latest-episodes > p {
+  color: black;
+  font-size: 35px;
+  line-height: 52px;
+  margin-left: 119px;
+  padding-top: 100px;
+}
+.latest-episodes__ep-content__happy-man__text {
+    display: flex;
+    
+    align-items:center;
+}
+.latest-episodes__ep-content__happy-man__text-mike {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  color: #000000;
+  margin-right: 12px;
+}
+.latest-episodes__ep-content__happy-man__text-ellipse {
+  width: 4px;
+  height: 4px;
+  background: #1c1b1e;
+  border-radius: 50px;
+}
+.latest-episodes__ep-content__happy-man__text-personal {
+    width: 374px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  color: #000000;
+  margin-left: 12px;
+}
+.latest-episodes__ep-content__happy-man__content-everyday {
+    width: 374px;
+}
+.latest-episodes__ep-content__happy-man__content-lorem {
+    width: 377px;
+height: 50px;
+}
+
+.latest-episodes__ep-content__happy-man-audio {
+    display: flex;
+    align-items: center;
+}
+.latest-episodes__ep-content__happy-man-audio__play {
+width: 0px;
+height: 0px;
+border-top: 10px solid transparent;
+    border-left: 15px solid #9224D6;
+    border-bottom: 10px solid transparent;
+    margin-right: 12px;
+}
+.latest-episodes__ep-content__happy-man-audio-contetnt {
+    font-size: 16px;
+    width: 141px;
+letter-spacing: 0.02em;
+color: #9224D6;
+margin-right: 120px;
+}
+
+.vector {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    border: none;
+}
+.vector__ellipse {
+width: 20px;
+height: 20px;
+border: 2px solid gray;
+border-radius: 50px;
+opacity: 0.6;
+}
+
+
+
+
+.minute {
+    font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: gray;
+opacity: 0.6;
+}
